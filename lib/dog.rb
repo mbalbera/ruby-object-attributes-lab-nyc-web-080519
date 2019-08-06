@@ -20,12 +20,12 @@ class Dog
     end
     
    
-    def name=(dog_name)
-    @name = dog_name
+    def breed=(dog_breed)
+    @breed = dog_name
     end
  
-    def name
-      @this_dogs_name
+    def breed
+      @breed
     end
 
    
